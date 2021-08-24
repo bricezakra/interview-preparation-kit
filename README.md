@@ -1,4 +1,4 @@
-# interview-preparation-kit
+# HackerRank-Interview-Preparation-Kit
 Solutions to all the problems of [Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit) on HackerRank and Interviewbit in C++, Java, Python and Javascript.
 
 ## Question solved
